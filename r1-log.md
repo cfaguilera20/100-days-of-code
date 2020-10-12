@@ -10,5 +10,5 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 - Created some examples about js basics: Arrow, IIFE, Closures, Destructing.
 
 **Link(s) to work** 
-1. [BinarySearchTree](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/ads/datastructures/BinarySearchTree.js)
-2. [Basics](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/cjs)
+1. [BinarySearchTree](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/BinarySearchTree.js)
+2. [Basics](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/javascript/cjs)
