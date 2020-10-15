@@ -29,4 +29,13 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work** 
 1. [Classes](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/cjs/classes.js)
-1. [Async](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/cjs/async.js)
+2. [Async](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/cjs/async.js)
+
+### R1D4
+- Implemented a PriorityQeueue using a MinBinaryHeap.
+- Implemented the async functions that I implemented yesterday to use Promises. Also I implemented the same functionality using async/await.
+
+
+**Link(s) to work** 
+1. [PriorityQeueue](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/PriorityQeueue.js)
+2. [Promises](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/cjs/async.js)
