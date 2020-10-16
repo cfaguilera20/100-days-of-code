@@ -47,4 +47,4 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work** 
 1. [API Calls](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/cjs/async.js)
-2. [Graph](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/graph.js)
+2. [Graph](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/Graph.js)
