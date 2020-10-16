@@ -39,3 +39,12 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work** 
 1. [PriorityQeueue](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/PriorityQeueue.js)
 2. [Promises](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/cjs/async.js)
+
+### R1D5
+- I created some API calls and handled the promieses with then, and async & await.
+- Implemented a simple Graph: addVertex, addEdge, removeEdge, removeVertex.
+
+
+**Link(s) to work** 
+1. [API Calls](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/cjs/async.js)
+2. [Graph](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/graph.js)
