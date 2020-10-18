@@ -83,7 +83,9 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D8
 
 -   Leetcode - 70. Climbing Stairs
+-   JavaScript - Foundations 1
 
 **Link(s) to work**
 
 1. [Leetcode - 70. Climbing Stairs](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/platforms/leetcode/climbing_stairs.js)
+2. [JavaScript - Foundations 1](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/foundations.js)
