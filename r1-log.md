@@ -63,3 +63,19 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work**
 
 1. [Depth Frist Graph Traversal](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/Graph.js)
+
+### R1D7
+
+-   LinkBridge: Implemented the Create project page. 
+-   Leetcode - 136. Single Number.
+-   AlgoExpert: Levenshtein Distance, Single Cycle Check.
+-   Implemented Breath Frist Graph Traversal.
+-   Implemented WeightedGraph: addVertex, addEdge.
+-   Started to implement Dijkstra.
+
+**Link(s) to work**
+
+1. [Leetcode - 136. Single Number.](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/platforms/leetcode/single_number.js)
+2. [Breath Frist Graph Traversal](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/Graph.js)
+3. [WeightedGraph](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/WeightedGraph.js)
+4. [Dijkstra](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/dijkstras.js)
