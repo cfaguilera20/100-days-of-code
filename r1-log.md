@@ -79,3 +79,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 2. [Breath Frist Graph Traversal](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/Graph.js)
 3. [WeightedGraph](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/WeightedGraph.js)
 4. [Dijkstra](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/algorithms/dijkstras.js)
+
+### R1D8
+
+-   Leetcode - 70. Climbing Stairs
+
+**Link(s) to work**
+
+1. [Leetcode - 70. Climbing Stairs](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/platforms/leetcode/climbing_stairs.js)
