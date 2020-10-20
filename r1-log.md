@@ -89,3 +89,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 1. [Leetcode - 70. Climbing Stairs](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/platforms/leetcode/climbing_stairs.js)
 2. [JavaScript - Foundations 1](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/foundations.js)
+
+### R1D9
+
+-   DOM Enlightenment: Chapter 1 excercices. 
+
+**Link(s) to work**
+
+1. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter1)
