@@ -100,3 +100,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 1. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter1)
 2. [JavaScript: Types](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/types.js)
 3. [JavaScript: Value & Reference](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/pass.js)
+
+### R1D10
+
+-   DOM Enlightenment: Chapter 1: Clone Nodes, Collectios, Converting List/Collection to Array, Traversing Nodes, Position, Compare. 
+
+**Link(s) to work**
+
+1. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter1)
