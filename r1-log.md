@@ -113,8 +113,9 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D11
 
--   DOM Enlightenment: Chapter 2: Document Nodes.
+-   DOM Enlightenment: Chapter 2: Document Nodes. Chapter 3: Element Nodes
 
 **Link(s) to work**
 
-1. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter2)
+1. [DOM Enlightenment: Chapter 2](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter2)
+1. [DOM Enlightenment: Chapter 3](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter3)
