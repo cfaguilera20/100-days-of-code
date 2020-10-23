@@ -121,3 +121,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 1. [DOM Enlightenment: Chapter 2](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter2)
 2. [DOM Enlightenment: Chapter 3](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter3)
 3. [JavaScript](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/prototypal.js)
+
+### R1D12
+
+-   JavasCript: Finished implement Dijkstra.
+
+**Link(s) to work**
+
+1. [Dijkstra](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/algorithms/dijkstras.js)
