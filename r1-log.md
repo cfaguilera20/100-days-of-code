@@ -125,7 +125,10 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D12
 
 -   JavasCript: Finished implement Dijkstra.
+-   JavasCript: OOP.
 
 **Link(s) to work**
 
 1. [Dijkstra](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/algorithms/dijkstras.js)
+2. [OOP: General](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/oop/oop.js)
+3. [OOP: Inheritance](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/oop/inheritance.js)
