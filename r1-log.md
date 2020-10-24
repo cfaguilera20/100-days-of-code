@@ -130,13 +130,23 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work**
 
 1. [Dijkstra](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/algorithms/dijkstras.js)
-2. [OOP: General](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/oop/oop.js)
-3. [OOP: Inheritance](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/oop/inheritance.js)
+2. [OOP: General](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/oop/oop.js)
+3. [OOP: Inheritance](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/oop/inheritance.js)
 
 ### R1D12
 
 -   DOM Enlightenment: Chapter 4: Element Node Selection
+-   DOM Enlightenment: Chapter 5: From 5.1 - 5.3
 
 **Link(s) to work**
 
 1. [DOM Enlightenment: Chapter 4](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter4)
+2. [DOM Enlightenment: Chapter 5.3](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter5)
+
+### R1D13
+
+-   JavaScript: Public vs Private 
+
+**Link(s) to work**
+
+1. [JavaScript: Public vs Private](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/oop/inheritance.js)
