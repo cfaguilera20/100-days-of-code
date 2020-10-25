@@ -153,8 +153,10 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D14
 
--   DOM Enlightenment: Chapter 5: From 5.4 - 5.9
+-   DOM Enlightenment: Chapter 5: From 5.4 - 5.9.
+-   DOM Enlightenment: Chapter 6.
 
 **Link(s) to work**
 
 1. [DOM Enlightenment: Chapter 5](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter5)
+1. [DOM Enlightenment: Chapter 6](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter6)
