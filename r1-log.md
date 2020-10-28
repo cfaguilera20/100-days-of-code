@@ -160,3 +160,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 1. [DOM Enlightenment: Chapter 5](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter5)
 1. [DOM Enlightenment: Chapter 6](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter6)
+
+### R1D15
+
+-   Create a function that excludes items 
+
+### R1D16
+
+-   Creat a function that sums two numbers
