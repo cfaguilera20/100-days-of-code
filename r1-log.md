@@ -168,3 +168,13 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D16
 
 -   Creat a function that sums two numbers
+
+### R1D17
+
+-   JavaScript - Pure functions
+-   JavaScript - Started to implement a HashTable
+
+**Link(s) to work**
+
+1. [JavaScript - Pure functions](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/functional.js)
+2. [HashTable](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/HashTable.js)
