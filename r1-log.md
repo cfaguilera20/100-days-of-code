@@ -178,3 +178,13 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 1. [JavaScript - Pure functions](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/functional.js)
 2. [HashTable](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/HashTable.js)
+
+### R1D18
+
+-   LinkBridge - Created the project detail view, and the contact form. 
+-   HashTable - Functions set, get, keys, and values.
+
+**Link(s) to work**
+
+1. [LinkBridge](https://linkbridge.net)
+2. [HashTable](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/HashTable.js)
