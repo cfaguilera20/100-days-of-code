@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ## Log
 
-### R1D1
+### R1D1 - Oct 11, 2020
 
 -   Complete the methods DFS traverse on a binary tree. Also I updated the insertRecursively method to use a private function to recieve the parent as an argument.
 -   Created some examples about js basics: Arrow, IIFE, Closures, Destructing.
@@ -14,7 +14,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 1. [BinarySearchTree](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/BinarySearchTree.js)
 2. [Basics](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/javascript/cjs)
 
-### R1D2
+### R1D2 - Oct 12, 2020
 
 -   Implemented de MaxBinaryHeap: Insert, ExtractMax using an array in JavaScript.
 -   AlgoExpert - minNumberOfCoinsForChange.
@@ -25,7 +25,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 1. [MaxBinaryHeap](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/MaxBinaryHeap.js)
 
-### R1D3
+### R1D3  - Oct 13, 2020
 
 -   LinkBridge: Implemented vuex for make the request and process the backend errors on login page. I created a functionality to save a form data to send it to the backend after the user create an account o logged in.
 -   Created some examples about classes in ES5 & ES6.
@@ -36,7 +36,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 1. [Classes](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/cjs/classes.js)
 2. [Async](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/cjs/async.js)
 
-### R1D4
+### R1D4 - Oct 14, 2020
 
 -   Implemented a PriorityQeueue using a MinBinaryHeap.
 -   Implemented the async functions that I implemented yesterday to use Promises. Also I implemented the same functionality using async/await.
@@ -46,7 +46,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 1. [PriorityQeueue](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/PriorityQeueue.js)
 2. [Promises](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/cjs/async.js)
 
-### R1D5
+### R1D5 - Oct 15, 2020
 
 -   I created some API calls and handled the promieses with then, and async & await.
 -   Implemented a simple Graph: addVertex, addEdge, removeEdge, removeVertex.
@@ -56,7 +56,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 1. [API Calls](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/cjs/async.js)
 2. [Graph](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/Graph.js)
 
-### R1D6
+### R1D6 - Oct 16, 2020
 
 -   Implemented Depth Frist Graph Traversal Recursive/Iterative.
 
@@ -64,7 +64,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 1. [Depth Frist Graph Traversal](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/Graph.js)
 
-### R1D7
+### R1D7 - Oct 17, 2020
 
 -   LinkBridge: Implemented the Create project page. 
 -   Leetcode - 136. Single Number.
@@ -80,7 +80,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 3. [WeightedGraph](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/WeightedGraph.js)
 4. [Dijkstra](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/algorithms/dijkstras.js)
 
-### R1D8
+### R1D8 - Oct 18, 2020
 
 -   Leetcode - 70. Climbing Stairs
 -   JavaScript - Foundations 1
@@ -90,7 +90,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 1. [Leetcode - 70. Climbing Stairs](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/platforms/leetcode/climbing_stairs.js)
 2. [JavaScript - Foundations 1](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/foundations.js)
 
-### R1D9
+### R1D9 - Oct 19, 2020
 
 -   DOM Enlightenment: Chapter 1 excercices. 
 -   JavaScript: Types, Pass by Value & Reference.
@@ -101,7 +101,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 2. [JavaScript: Types](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/types.js)
 3. [JavaScript: Value & Reference](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/pass.js)
 
-### R1D10
+### R1D10 - Oct 20, 2020
 
 -   DOM Enlightenment: Chapter 1: Clone Nodes, Collectios, Converting List/Collection to Array, Traversing Nodes, Position, Compare. 
 -   JavasCript: Higher Order Function & Closures
@@ -111,7 +111,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 1. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter1)
 2. [JavaScript](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/closures.js)
 
-### R1D11
+### R1D11 - Oct 21, 2020
 
 -   DOM Enlightenment: Chapter 2: Document Nodes. Chapter 3: Element Nodes
 -   JavasCript: Prototypal
@@ -122,7 +122,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 2. [DOM Enlightenment: Chapter 3](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter3)
 3. [JavaScript](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/prototypal.js)
 
-### R1D12
+### R1D12 - Oct 22, 2020
 
 -   JavasCript: Finished implement Dijkstra.
 -   JavasCript: OOP.
@@ -133,7 +133,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 2. [OOP: General](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/oop/oop.js)
 3. [OOP: Inheritance](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/oop/inheritance.js)
 
-### R1D12
+### R1D13 - Oct 23, 2020
 
 -   DOM Enlightenment: Chapter 4: Element Node Selection
 -   DOM Enlightenment: Chapter 5: From 5.1 - 5.3
@@ -143,7 +143,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 1. [DOM Enlightenment: Chapter 4](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter4)
 2. [DOM Enlightenment: Chapter 5.3](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter5)
 
-### R1D13
+### R1D14 - Oct 24, 2020
 
 -   JavaScript: Public vs Private 
 
@@ -151,7 +151,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 1. [JavaScript: Public vs Private](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/oop/inheritance.js)
 
-### R1D14
+### R1D15 - Oct 25, 2020
 
 -   DOM Enlightenment: Chapter 5: From 5.4 - 5.9.
 -   DOM Enlightenment: Chapter 6.
@@ -161,15 +161,15 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 1. [DOM Enlightenment: Chapter 5](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter5)
 1. [DOM Enlightenment: Chapter 6](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter6)
 
-### R1D15
+### R1D16 - Oct 26, 2020
 
 -   Create a function that excludes items 
 
-### R1D16
+### R1D17 - Oct 27, 2020
 
 -   Creat a function that sums two numbers
 
-### R1D17
+### R1D18 - Oct 28, 2020
 
 -   JavaScript - Pure functions
 -   JavaScript - Started to implement a HashTable
@@ -179,7 +179,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 1. [JavaScript - Pure functions](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/functional.js)
 2. [HashTable](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/HashTable.js)
 
-### R1D18
+### R1D19 - Oct 29, 2020
 
 -   LinkBridge - Created the project detail view, and the contact form. 
 -   HashTable - Functions set, get, keys, and values.
