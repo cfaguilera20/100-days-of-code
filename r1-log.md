@@ -25,7 +25,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 1. [MaxBinaryHeap](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/MaxBinaryHeap.js)
 
-### R1D3  - Oct 13, 2020
+### R1D3 - Oct 13, 2020
 
 -   LinkBridge: Implemented vuex for make the request and process the backend errors on login page. I created a functionality to save a form data to send it to the backend after the user create an account o logged in.
 -   Created some examples about classes in ES5 & ES6.
@@ -66,7 +66,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D7 - Oct 17, 2020
 
--   LinkBridge: Implemented the Create project page. 
+-   LinkBridge: Implemented the Create project page.
 -   Leetcode - 136. Single Number.
 -   AlgoExpert: Levenshtein Distance, Single Cycle Check.
 -   Implemented Breath Frist Graph Traversal.
@@ -92,7 +92,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D9 - Oct 19, 2020
 
--   DOM Enlightenment: Chapter 1 excercices. 
+-   DOM Enlightenment: Chapter 1 excercices.
 -   JavaScript: Types, Pass by Value & Reference.
 
 **Link(s) to work**
@@ -103,7 +103,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D10 - Oct 20, 2020
 
--   DOM Enlightenment: Chapter 1: Clone Nodes, Collectios, Converting List/Collection to Array, Traversing Nodes, Position, Compare. 
+-   DOM Enlightenment: Chapter 1: Clone Nodes, Collectios, Converting List/Collection to Array, Traversing Nodes, Position, Compare.
 -   JavasCript: Higher Order Function & Closures
 
 **Link(s) to work**
@@ -145,7 +145,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D14 - Oct 24, 2020
 
--   JavaScript: Public vs Private 
+-   JavaScript: Public vs Private
 
 **Link(s) to work**
 
@@ -163,7 +163,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D16 - Oct 26, 2020
 
--   Create a function that excludes items 
+-   Create a function that excludes items
 
 ### R1D17 - Oct 27, 2020
 
@@ -181,10 +181,20 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D19 - Oct 29, 2020
 
--   LinkBridge - Created the project detail view, and the contact form. 
+-   LinkBridge - Created the project detail view, and the contact form.
 -   HashTable - Functions set, get, keys, and values.
 
 **Link(s) to work**
 
 1. [LinkBridge](https://linkbridge.net)
 2. [HashTable](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/ads/datastructures/HashTable.js)
+
+### R1D20 - Oct 30, 2020
+
+-   JavaScript - HOF & Closures, Currying, Partial Application.
+-   JavaScript - Functional example.
+
+**Link(s) to work**
+
+1. [JavaScript](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/functional.js)
+1. [Functional example](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/functional.example.js)
