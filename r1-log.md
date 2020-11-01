@@ -197,4 +197,12 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work**
 
 1. [JavaScript](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/functional.js)
-1. [Functional example](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/functional.example.js)
+2. [Functional example](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/functional.example.js)
+
+### R1D21 - Oct 31, 2020
+
+-   LinkBridge - Created a component to confirm some actions, projects lists, details, and delete. Improvements to vuetify color theme implementation. 
+
+**Link(s) to work*
+
+1. [LinkBridge](https://linkbridge.com)
