@@ -219,6 +219,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 -   Javascript - Errors: How to handle errors.
 -   LinkBridge - Update projects.
+-   AlgoExpert - Merge Sorted Arrays.
 
 **Link(s) to work**
 
