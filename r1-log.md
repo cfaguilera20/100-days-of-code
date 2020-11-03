@@ -217,8 +217,8 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D23 - Nov 02, 2020
 
--   Javascript - Errors
+-   Javascript - Errors: How to handle errors.
 
 **Link(s) to work**
 
-2. [JavaScript - Errors](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/erros.js)
+2. [JavaScript - Errors](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/errors.js)
