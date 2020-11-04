@@ -201,7 +201,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D21 - Oct 31, 2020
 
--   LinkBridge - Created a component to confirm some actions, projects lists, details, and delete. Improvements to vuetify color theme implementation. 
+-   LinkBridge - Created a component to confirm some actions, projects lists, details, and delete. Improvements to vuetify color theme implementation.
 
 **Link(s) to work**
 
@@ -224,3 +224,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work**
 
 2. [JavaScript - Errors](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/errors.js)
+
+### R1D24 - Nov 03, 2020
+
+-   Javascript - Errors: Async.
+
+**Link(s) to work**
+
+2. [Javascript - Errors: Async](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/errors.js)
