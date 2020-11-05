@@ -223,7 +223,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-2. [JavaScript - Errors](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/errors.js)
+1. [JavaScript - Errors](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/errors.js)
 
 ### R1D24 - Nov 03, 2020
 
@@ -232,4 +232,12 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-2. [Javascript - Errors: Async](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/errors.js)
+1. [Javascript - Errors: Async](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/errors.js)
+
+### R1D25 - Nov 04, 2020
+
+-   DOM Enlightenment - Chapter 8: DocumentFragment.
+
+**Link(s) to work**
+
+1. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter8)
