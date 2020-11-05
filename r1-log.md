@@ -237,7 +237,9 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D25 - Nov 04, 2020
 
 -   DOM Enlightenment - Chapter 8: DocumentFragment.
+-   JavaScript - Async: Parallel, Sequence, Race.
 
 **Link(s) to work**
 
 1. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter8)
+2. [JavaScript - Async](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/adv/async.js)
