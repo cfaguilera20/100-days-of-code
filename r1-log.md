@@ -251,3 +251,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work**
 
 1. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter9)
+
+### R1D27 - Nov 06, 2020
+
+-   JavaScript - Simple calculator
+
+**Link(s) to work**
+
+1. [JavaScript - Async](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/max/calculator/)
