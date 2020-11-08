@@ -259,3 +259,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work**
 
 1. [JavaScript - Async](https://github.com/cfaguilera20/data-structures-algorithms/blob/master/javascript/max/calculator/)
+
+### R1D28 - Nov 07, 2020
+
+-   LinkBridge - Created the investment round form, migrations restructured, and improvments to the edit project form.
