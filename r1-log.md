@@ -263,3 +263,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D28 - Nov 07, 2020
 
 -   LinkBridge - Created the investment round form, migrations restructured, and improvments to the edit project form.
+
+### R1D29 - Nov 08, 2020
+
+-   LinkBridge - Round front validations, backend api. Fixed a bug that dindn't refresh the fornt validations messages. Created the vuex file for rounds. 
