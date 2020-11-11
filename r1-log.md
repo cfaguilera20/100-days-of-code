@@ -271,3 +271,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D30 - Nov 09, 2020
 
 -   LinkBridge - List of rounds.
+
+### R1D31 - Nov 10, 2020
+
+-   LinkBridge - List of rounds improvements.
