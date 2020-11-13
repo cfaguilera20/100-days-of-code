@@ -279,3 +279,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D32 - Nov 11, 2020
 
 -   LinkBridge - Jobs.
+
+### R1D33 - Nov 12, 2020
+
+-   LinkBridge - Create job form.
