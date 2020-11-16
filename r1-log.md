@@ -291,3 +291,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D35 - Nov 14, 2020
 
 -   LinkBridge - Create job form backend store & validations.
+
+### R1D36 - Nov 15, 2020
+
+-   LinkBridge - List of jobs in prject's page.
