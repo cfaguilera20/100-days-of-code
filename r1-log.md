@@ -295,3 +295,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D36 - Nov 15, 2020
 
 -   LinkBridge - List of jobs in prject's page.
+
+### R1D37 - Nov 16, 2020
+
+-   Ionic - Started a project with Ionic Vue.
