@@ -303,3 +303,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D38 - Nov 17, 2020
 
 -   Ionic - Added an Auth guard.
+
+### R1D39 - Nov 18, 2020
+
+-   Ionic - Created a menu template.
