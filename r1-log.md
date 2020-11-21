@@ -315,3 +315,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D41 - Nov 20, 2020
 
 -   Ionic - Notificaction detail
+
+### R1D42 - Nov 21, 2020
+
+-   AlgoExpert - BinaryTree Diameter
