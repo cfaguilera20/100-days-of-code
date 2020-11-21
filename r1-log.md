@@ -314,4 +314,4 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D41 - Nov 20, 2020
 
--   Ionic - Created notifications' store, auth loader. 
+-   Ionic - Notificaction detail
