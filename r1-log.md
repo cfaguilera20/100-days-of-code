@@ -308,6 +308,10 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 -   Ionic - Created a menu template.
 
-### R1D40 - Nov 10, 2020
+### R1D40 - Nov 19, 2020
+
+-   Ionic - Created notifications' store, auth loader. 
+
+### R1D41 - Nov 20, 2020
 
 -   Ionic - Created notifications' store, auth loader. 
