@@ -319,3 +319,6 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D42 - Nov 21, 2020
 
 -   AlgoExpert - BinaryTree Diameter
+### R1D43 - Nov 21, 2020
+
+-   LinkBridge - Created the routes and the files for the list of jobs & job detail.
