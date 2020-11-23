@@ -323,3 +323,8 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 -   LinkBridge - Created the routes and the files for the list of jobs & job detail.
 -   Ionic - Use cache to show notifications.
+
+### R1D44 - Nov 23, 2020
+
+-   Ionic - Infinite scroll & refresher components. 
+
