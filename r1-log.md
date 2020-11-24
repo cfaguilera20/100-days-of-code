@@ -327,4 +327,5 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D44 - Nov 23, 2020
 
 -   Ionic - Infinite scroll & refresher components. 
+-   Ionic - Backend for infinite scroll. 
 
