@@ -336,3 +336,4 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D46 - Nov 26, 2020
 
 -   Ionic - Added geolocation.
+-   Ionic - Tried to implement google maps.
