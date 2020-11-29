@@ -345,3 +345,8 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D48 - Nov 28, 2020
 
 -   Ionic - Reorganized the components, cretated the list of records. 
+
+### R1D49 - Nov 29, 2020
+
+-   Ionic - Implemented the main template in all pages.
+
