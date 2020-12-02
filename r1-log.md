@@ -355,3 +355,10 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 -   Ionic - Created a component to  show a map an register you position in different pages.
 -   Ionic - A reusable notifications component was created
 
+### R1D51 - Dic 01, 2020
+
+-   DOM Enlightenment: Chapter 10.
+
+**Link(s) to work**
+
+1. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter10)
