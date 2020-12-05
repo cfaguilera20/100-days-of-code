@@ -366,3 +366,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D52 - Dec 02, 2020
 
 -   Ionic - Login validation
+
+### R1D53 - Dec 03, 2020
+
+-   Ionic 
+
+### R1D54 - Dec 04, 2020
+
+-   Ionic - Solve a problem with cors.
