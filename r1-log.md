@@ -374,3 +374,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D54 - Dec 04, 2020
 
 -   Ionic - Solve a problem with cors.
+
+### R1D55 - Dec 05, 2020
+
+-   Ionic - Worked on Google Play Images & 
+
+### R1D56 - Dec 06, 2020
+
+-   Ionic - Created the first release version for android.
