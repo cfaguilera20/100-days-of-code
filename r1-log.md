@@ -382,3 +382,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D56 - Dec 06, 2020
 
 -   Ionic - Created the first release version for android.
+
+### R1D57 - Dec 07, 2020
+
+-   Celan Arquitecture - OCP - The Open-Closed Principle
