@@ -386,3 +386,8 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D57 - Dec 07, 2020
 
 -   Celan Arquitecture - OCP - The Open-Closed Principle
+-   DOM Enlightenment: Chapter 11.1.
+
+**Link(s) to work**
+
+1. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter11)
