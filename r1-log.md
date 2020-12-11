@@ -403,3 +403,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work**
 
 1. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter11)
+
+### R1D60 - Dec 10, 2020
+
+-   DOM Enlightenment: Chapter 11.8. 
+
+**Link(s) to work**
+
+1. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/chapter11)
