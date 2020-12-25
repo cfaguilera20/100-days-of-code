@@ -528,3 +528,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work**
 
 1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+
+### R1D75 - Dec 25, 2020
+
+-   Developer's Guide to content: Your Knowledge Bank WorkSheet 
