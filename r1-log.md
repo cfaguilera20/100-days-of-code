@@ -532,3 +532,22 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D75 - Dec 25, 2020
 
 -   Developer's Guide to content: Your Knowledge Bank WorkSheet 
+  
+### R1D76 - Dec 26, 2020
+
+-   MVC Limitations: Diagram & Components
+
+### R1D77 - Dec 27, 2020
+
+- The Onion Arquitecture
+
+**Link(s) to work**
+
+1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+
+### R1D78 - Dec 28, 2020
+
+- Read about framework independence
+- Fixe some typo errors.
+
+1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
