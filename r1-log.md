@@ -563,3 +563,9 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 - Framework Services
 
 1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+   
+### R1D81 - Dec 31, 2020
+
+- Database Independence
+
+1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
