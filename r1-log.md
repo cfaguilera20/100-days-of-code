@@ -550,11 +550,15 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 - Read about framework independence
 - Fixe some typo errors.
 
+**Link(s) to work**
+
 1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D79 - Dec 29, 2020
 
 - Framework Independence notes
+
+**Link(s) to work**
 
 1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
@@ -562,10 +566,18 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 - Framework Services
 
+**Link(s) to work**
+
 1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
    
 ### R1D81 - Dec 31, 2020
 
 - Database Independence
 
+**Link(s) to work**
+
 1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+   
+### R1D82 - Jan 01, 2021
+
+- Developer's Guide to content: Idea inventory
