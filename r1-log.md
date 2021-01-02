@@ -385,7 +385,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D57 - Dec 07, 2020
 
--   Celan Arquitecture - OCP - The Open-Closed Principle
+-   Celan Architecture - OCP - The Open-Closed Principle
 -   DOM Enlightenment: Chapter 11.1.
 
 **Link(s) to work**
@@ -394,7 +394,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D58 - Dec 08, 2020
 
--   Celan Arquitecture - LSP - The Liskov Substitution Principle
+-   Celan Architecture - LSP - The Liskov Substitution Principle
 
 ### R1D59 - Dec 09, 2020
 
@@ -414,19 +414,19 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D61 - Dec 11, 2020
 
--   Clean Arquitecture PHP
+-   Clean Architecture PHP
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D62 - Dec 12, 2020
 
--   Clean Arquitecture PHP
+-   Clean Architecture PHP
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D63 - Dec 13, 2020
 
@@ -434,7 +434,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D64 - Dec 14, 2020
 
@@ -443,7 +443,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 2. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/dom.js)
 
 ### R1D65 - Dec 15, 2020
@@ -454,7 +454,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work**
 
 1. [DOM Enlightenment](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/dom/dom.js)
-2. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+2. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D66 - Dec 16, 2020
 
@@ -462,7 +462,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
    
 ### R1D67 - Dec 17, 2020
 
@@ -470,7 +470,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D68 - Dec 18, 2020
 
@@ -478,7 +478,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
    
 ### R1D69 - Dec 19, 2020
 
@@ -486,7 +486,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D70 - Dec 20, 2020
 
@@ -495,7 +495,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D71 - Dec 21, 2020
 
@@ -503,7 +503,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D72 - Dec 22, 2020
 
@@ -511,7 +511,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D73 - Dec 23, 2020
 
@@ -519,7 +519,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
    
 ### R1D74 - Dec 24, 2020
 
@@ -527,7 +527,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D75 - Dec 25, 2020
 
@@ -539,11 +539,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 ### R1D77 - Dec 27, 2020
 
-- The Onion Arquitecture
+- The Onion Architecture
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D78 - Dec 28, 2020
 
@@ -552,7 +552,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D79 - Dec 29, 2020
 
@@ -560,7 +560,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
 ### R1D80 - Dec 30, 2020
 
@@ -568,7 +568,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
    
 ### R1D81 - Dec 31, 2020
 
@@ -576,8 +576,13 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 **Link(s) to work**
 
-1. [Clean Arquitecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
    
 ### R1D82 - Jan 01, 2021
 
 - Developer's Guide to content: Idea inventory
+- Clean Architecture PHP - Domain Services
+
+**Link(s) to work**
+
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
