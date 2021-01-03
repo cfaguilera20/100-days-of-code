@@ -599,6 +599,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 - Clean Architecture PHP - Database Infrastructure/Persistance - Using Dependency Injection to Fulfill Contracts
 - Clean Architecture PHP - Organizing the Code
+- Clean Architecture PHP - External Agency Independence
 
 **Link(s) to work**
 
