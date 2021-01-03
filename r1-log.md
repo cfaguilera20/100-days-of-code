@@ -594,3 +594,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work**
 
 1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+   
+### R1D84 - Jan 03, 2021
+
+- Clean Architecture PHP - Database Infrastructure/Persistance - Using Dependency Injection to Fulfill Contracts
+
+**Link(s) to work**
+
+1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
