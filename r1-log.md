@@ -604,3 +604,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work**
 
 1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
+
+### R1D85 - Jan 04, 2021
+
+- cfaguilera.me - Configured Tailwind.
+
+**Link(s) to work**
+
+1. [cfaguilera.me](https://cfaguilera.me)
