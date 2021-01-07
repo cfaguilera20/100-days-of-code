@@ -620,3 +620,11 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work**
 
 1. [cfaguilera.me](https://cfaguilera.me)
+
+### R1D87 - Jan 06, 2021
+
+- cfaguilera.me - Playing around tailwindcss.
+
+**Link(s) to work**
+
+1. [cfaguilera.me](https://cfaguilera.me)
