@@ -628,3 +628,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 **Link(s) to work**
 
 1. [cfaguilera.me](https://cfaguilera.me)
+
+### R1D88 - Jan 07, 2021
+
+- LinkBridge - Created a view to show a job description 
