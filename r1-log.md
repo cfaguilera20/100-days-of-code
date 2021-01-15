@@ -672,3 +672,8 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D90 - Jan 13, 2021
 
 - Modernizing Legacy Applications - Legacy Applications
+
+### R1D91 - Jan 14, 2021
+
+- Modernizing Legacy Applications - Chapters: Prerequisites, Implement An Autoloader, Consolidate Classes And Functions.
+- Created the folder structure for Clean Architecture in PeopleCloud HRM.
