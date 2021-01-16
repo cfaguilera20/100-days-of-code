@@ -677,3 +677,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 - Modernizing Legacy Applications - Chapters: Prerequisites, Implement An Autoloader, Consolidate Classes And Functions.
 - Created the folder structure for Clean Architecture in PeopleCloud HRM.
+
+### R1D92 - Jan 15, 2021
+
+- Modernizing Legacy Applications - Replacing global With Dependency Injection, Extract SQL Statements to SQL.
