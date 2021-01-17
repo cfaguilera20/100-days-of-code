@@ -681,3 +681,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D92 - Jan 15, 2021
 
 - Modernizing Legacy Applications - Replacing global With Dependency Injection, Extract SQL Statements to SQL.
+
+### R1D93 - Jan 16, 2021
+
+- Modernizing Legacy Applications - Extract Domain Logic To Transactions.
