@@ -693,3 +693,10 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D95 - Jan 18, 2021
 
 - LinkBridge - Applications controller & stores in js.
+### R1D96 - Jan 19, 2021
+
+- LinkBridge - Applications request.
+
+### R1D97 - Jan 20, 2021
+
+- This is the very first day that I don't code for this challenge I had a lot of work.
