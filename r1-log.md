@@ -700,3 +700,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D97 - Jan 20, 2021
 
 - This is the very first day that I don't code for this challenge I had a lot of work.
+
+### R1D98 - Jan 21, 2021
+
+- LinkBridge - Check if the user already applied to the job position.
