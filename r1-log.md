@@ -704,3 +704,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 ### R1D98 - Jan 21, 2021
 
 - LinkBridge - Check if the user already applied to the job position.
+
+### R1D99 - Jan 22, 2021
+
+- LinkBridge - Investments list. You can check the investments rounds of the projects. I fixed the investments rounds refresh function when you create a new one.
