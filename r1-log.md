@@ -633,7 +633,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 - LinkBridge - Created a view to show a job description 
 
-### R1D85 - Jan 08, 2021
+### R1D89 - Jan 08, 2021
 
 - Clean Architecture PHP - Demo
 
@@ -641,7 +641,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
-### R1D86 - Jan 09, 2021
+### R1D90 - Jan 09, 2021
 
 - Clean Architecture PHP - Factory tests. 
 
@@ -649,7 +649,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
-### R1D87 - Jan 10, 2021
+### R1D91 - Jan 10, 2021
 
 - Clean Architecture PHP - Invoicing service.
 
@@ -657,7 +657,7 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
-### R1D88 - Jan 11, 2021
+### R1D92 - Jan 11, 2021
 
 - Clean Architecture PHP - Mapping files.
 
@@ -665,46 +665,50 @@ The log of my #100DaysOfCode challenge. Started on October 11, Sunday, 2020.
 
 1. [Clean Architecture PHP](https://github.com/cfaguilera20/data-structures-algorithms/tree/master/books/cleanphp/)
 
-### R1D89 - Jan 12, 2021
+### R1D93 - Jan 12, 2021
 
 - LinkBridge - List of rounds.
 
-### R1D90 - Jan 13, 2021
+### R1D94 - Jan 13, 2021
 
 - Modernizing Legacy Applications - Legacy Applications
 
-### R1D91 - Jan 14, 2021
+### R1D95 - Jan 14, 2021
 
 - Modernizing Legacy Applications - Chapters: Prerequisites, Implement An Autoloader, Consolidate Classes And Functions.
 - Created the folder structure for Clean Architecture in PeopleCloud HRM.
 
-### R1D92 - Jan 15, 2021
+### R1D96 - Jan 15, 2021
 
 - Modernizing Legacy Applications - Replacing global With Dependency Injection, Extract SQL Statements to SQL.
 
-### R1D93 - Jan 16, 2021
+### R1D97 - Jan 16, 2021
 
 - Modernizing Legacy Applications - Extract Domain Logic To Transactions.
 
-### R1D94 - Jan 17, 2021
+### R1D98 - Jan 17, 2021
 
 - Modernizing Legacy Applications - Reading About Dependency Injection Container
 
-### R1D95 - Jan 18, 2021
+### R1D99 - Jan 18, 2021
 
 - LinkBridge - Applications controller & stores in js.
-### R1D96 - Jan 19, 2021
+### R1D100 - Jan 19, 2021
 
 - LinkBridge - Applications request.
 
-### R1D97 - Jan 20, 2021
+### R1D101 - Jan 20, 2021
 
 - This is the very first day that I don't code for this challenge I had a lot of work.
 
-### R1D98 - Jan 21, 2021
+### R1D102 - Jan 21, 2021
 
 - LinkBridge - Check if the user already applied to the job position.
 
-### R1D99 - Jan 22, 2021
+### R1D103 - Jan 22, 2021
 
 - LinkBridge - Investments list. You can check the investments rounds of the projects. I fixed the investments rounds refresh function when you create a new one.
+  
+### R1D104 - Jan 23, 2021
+
+- LinkBridge - Detail of an investment round
