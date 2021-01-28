@@ -15,3 +15,7 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D3 - Jan 26, 2021
 
 - LinkBridge - Worked on Stripe integration, I created the endpoints to get the intent data. I've an error that I couldn't figured out how to resolve.
+  
+### R2D4 - Jan 27, 2021
+
+- LinkBridge - Worked on Stripe listing of payment methods, store new payment method, create the stripe customer.
