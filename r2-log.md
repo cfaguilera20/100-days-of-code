@@ -19,3 +19,7 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D4 - Jan 27, 2021
 
 - LinkBridge - Worked on Stripe listing of payment methods, store new payment method, create the stripe customer.
+  
+### R2D5 - Jan 28, 2021
+
+- LinkBridge - Worked on stripe to store the investments, updated some db tables to store the payment method, and to track the investment status.
