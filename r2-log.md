@@ -23,3 +23,7 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D5 - Jan 28, 2021
 
 - LinkBridge - Worked on stripe to store the investments, updated some db tables to store the payment method, and to track the investment status.
+
+### R2D6 - Jan 29, 2021
+
+- LinkBridge - Redirect to My investments view, and created the Investments view template. 
