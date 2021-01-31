@@ -27,3 +27,7 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D6 - Jan 29, 2021
 
 - LinkBridge - Redirect to My investments view, and created the Investments view template. 
+
+### R2D7 - Jan 30, 2021
+
+- LinkBridge - Connected the investments view with the API. Reorganized the navbar and routes.
