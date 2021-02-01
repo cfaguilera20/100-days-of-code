@@ -31,3 +31,7 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D7 - Jan 30, 2021
 
 - LinkBridge - Connected the investments view with the API. Reorganized the navbar and routes.
+
+### R2D8 - Jan 31, 2021
+
+- LinkBridge - Projects, investments, and breadcrumbs: layout improvements..
