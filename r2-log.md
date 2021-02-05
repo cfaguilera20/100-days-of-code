@@ -35,3 +35,19 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D8 - Jan 31, 2021
 
 - LinkBridge - Projects, investments, and breadcrumbs: layout improvements..
+  
+### R2D9 - Feb 1, 2021
+
+- LinkBridge - Fixes
+  
+### R2D10 - Feb 2, 2021
+
+- LinkBridge - Fixes
+  
+### R2D11 - Feb 3, 2021
+
+- LinkBridge - Cloudformation templates
+  
+### R2D12 - Feb 4, 2021
+
+- LinkBridge - Cloudformation  
