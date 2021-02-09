@@ -63,3 +63,11 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D15 - Feb 7, 2021
 
 - LinkBridge - Payment Methods components.
+
+### R2D16 - Feb 8, 2021
+
+- LinkBridge - Worked on cloud formation template.
+
+### R2D17 - Feb 9, 2021
+
+- LinkBridge - Worked on subscription workflow.
