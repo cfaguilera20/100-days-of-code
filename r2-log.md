@@ -75,3 +75,7 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D18 - Feb 10, 2021
 
 - LinkBridge - Menu items. My subscription view. 
+
+### R2D19 - Feb 11, 2021
+
+- LinkBridge - Default payment method endpoint and data in view.
