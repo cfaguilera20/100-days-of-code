@@ -79,3 +79,11 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D19 - Feb 11, 2021
 
 - LinkBridge - Default payment method endpoint and data in view.
+  
+### R2D20 - Feb 12, 2021
+
+- LinkBridge - Updated Docker files.
+
+### R2D21 - Feb 13, 2021
+
+- LinkBridge - Build spec.
