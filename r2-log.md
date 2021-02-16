@@ -87,3 +87,15 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D21 - Feb 13, 2021
 
 - LinkBridge - Build spec.
+  
+### R2D22 - Feb 14, 2021
+
+- LinkBridge - Subscription cancel.
+
+### R2D23 - Feb 15, 2021
+
+- LinkBridge - Subscription status.
+
+### R2D24 - Feb 15, 2021
+
+- LinkBridge - Breadcrumbs and invoices store.
