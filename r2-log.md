@@ -99,3 +99,11 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D24 - Feb 15, 2021
 
 - LinkBridge - Breadcrumbs and invoices store.
+
+### R2D25 - Feb 16, 2021
+
+- LinkBridge - Estatus de suscripción y método de pago en vista. 
+
+### R2D26 - Feb 17, 2021
+
+- LinkBridge - Estatus de suscripción en planes. 
