@@ -107,3 +107,11 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D26 - Feb 17, 2021
 
 - LinkBridge - Estatus de suscripción en planes. 
+
+### R2D27 - Feb 18, 2021
+
+- LinkBridge - Subscription status in front.
+
+### R2D28 - Feb 19, 2021
+
+- LinkBridge - Before enter router function.
