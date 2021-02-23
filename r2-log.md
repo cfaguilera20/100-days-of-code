@@ -115,3 +115,15 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D28 - Feb 19, 2021
 
 - LinkBridge - Before enter router function.
+  
+### R2D29 - Feb 20, 2021
+
+- LinkBridge 
+
+### R2D30 - Feb 21, 2021
+
+- LinkBridge - Standardized breadcrumbs
+
+### R2D31 - Feb 22, 2021
+
+- cfaguilera.me - Write a little summary.
