@@ -127,3 +127,31 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D31 - Feb 22, 2021
 
 - cfaguilera.me - Write a little summary.
+
+### R2D32 - Feb 23, 2021
+
+- cfaguilera.me
+
+### R2D33 - Feb 24, 2021
+
+- cfaguilera.me, linkbridge.app
+
+### R2D34 - Feb 25, 2021
+
+- Hackerrank, Algoexpert
+
+### R2D35 - Feb 26, 2021
+
+- Hackerrank, Algoexpert
+
+### R2D36 - Feb 27, 2021
+
+- Hackerrank, Algoexpert
+
+### R2D37 - Feb 28, 2021
+
+- Hackerrank, Algoexpert
+
+### R2D38 - Mar 01, 2021
+
+- Hackerrank, Algoexpert
