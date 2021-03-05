@@ -155,3 +155,17 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 ### R2D38 - Mar 01, 2021
 
 - Hackerrank, Algoexpert
+
+### R2D39 - Mar 02, 2021
+
+- Hackerrank, Algoexpert
+
+### R2D40 - Mar 03, 2021
+
+- Fuck, I forget this day
+
+### R2D41 - Mar 04, 2021
+
+- LinkBridge - Working on setting up my dev environment o the new laptop. The container don't work. 
+
+
