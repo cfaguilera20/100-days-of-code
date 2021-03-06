@@ -168,4 +168,8 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 
 - LinkBridge - Working on setting up my dev environment o the new laptop. The container don't work. 
 
+### R2D42 - Mar 05, 2021
+
+- LinkBridge - Working logo upload: Controller, component.
+
 
