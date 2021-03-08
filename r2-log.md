@@ -172,4 +172,15 @@ The log of my #100DaysOfCode challenge. Started on January 24 , Sunday, 2021.
 
 - LinkBridge - Working logo upload: Controller, component.
 
+### R2D43 - Mar 06, 2021
+
+- LinkBridge 
+
+### R2D44 - Mar 07, 2021
+
+- LinkBridge - Logo 
+
+### R2D45 - Mar 08, 2021
+
+- LinkBridge - Profile sections
 
